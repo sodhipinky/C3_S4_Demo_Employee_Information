@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ecce9d8-c917-4d60-ba87-6e44d425bede" name="Changes" comment="created the object of 'Manager' class">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/employee/ManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/employee/ManagerImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ecce9d8-c917-4d60-ba87-6e44d425bede" name="Changes" comment="changed month from 05 to 5 while creating manager object" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661506690309</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="displayed the details of manager object">
+      <created>1661506958248</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661506958248</updated>
+    </task>
+    <task id="LOCAL-00016" summary="changed month from 05 to 5 while creating manager object">
+      <created>1661507025209</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661507025209</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +212,9 @@
     <MESSAGE value="added getter methods to 'Manager.java'" />
     <MESSAGE value="created 'ManagerImpl.java' with main() method" />
     <MESSAGE value="created the object of 'Manager' class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the object of 'Manager' class" />
+    <MESSAGE value="displayed the details of manager object" />
+    <MESSAGE value="changed month from 05 to 5 while creating manager object" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed month from 05 to 5 while creating manager object" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
