@@ -11,4 +11,12 @@ public class Employee {
 
     public Employee() {
     }
+
+    public Employee(String name, int age, LocalDate dateOfBirth, String address, double salary) {
+        this.name = name;
+        this.age = age;
+        this.dateOfBirth = dateOfBirth;
+        this.address = address;
+        this.salary = salary;
+    }
 }
