@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ecce9d8-c917-4d60-ba87-6e44d425bede" name="Changes" comment="added a parameterized constructor to 'Employee.java'">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/employee/Employee.java" afterDir="false" />
+    <list default="true" id="1ecce9d8-c917-4d60-ba87-6e44d425bede" name="Changes" comment="created 'Manager'  as the subclass of 'Employee'">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/employee/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661505633704</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added getter methods to 'Employee.java'">
+      <created>1661505890810</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661505890810</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created 'Manager'  as the subclass of 'Employee'">
+      <created>1661506108773</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661506108773</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +138,9 @@
     <MESSAGE value="added private fields to 'Employee.java'" />
     <MESSAGE value="added a no-args constructor to 'Employee.java'" />
     <MESSAGE value="added a parameterized constructor to 'Employee.java'" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a parameterized constructor to 'Employee.java'" />
+    <MESSAGE value="added getter methods to 'Employee.java'" />
+    <MESSAGE value="created 'Manager'  as the subclass of 'Employee'" />
+    <option name="LAST_COMMIT_MESSAGE" value="created 'Manager'  as the subclass of 'Employee'" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
