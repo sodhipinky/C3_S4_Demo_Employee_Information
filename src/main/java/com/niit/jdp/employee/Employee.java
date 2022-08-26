@@ -9,4 +9,6 @@ public class Employee {
     private String address;
     private double salary;
 
+    public Employee() {
+    }
 }
