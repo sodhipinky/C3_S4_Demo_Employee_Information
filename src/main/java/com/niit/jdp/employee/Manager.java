@@ -12,4 +12,11 @@ public class Manager extends Employee {
         this.ratingByTeam = ratingByTeam;
     }
 
+    public int getTeamSize() {
+        return teamSize;
+    }
+
+    public int getRatingByTeam() {
+        return ratingByTeam;
+    }
 }
