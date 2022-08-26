@@ -7,7 +7,7 @@ public class ManagerImpl {
         Manager manager = new Manager(
                 "Aditya",
                 23,
-                LocalDate.of(1999, 05, 20),
+                LocalDate.of(1999, 5, 20),
                 "Pune",
                 1_00_000.0,
                 5,
